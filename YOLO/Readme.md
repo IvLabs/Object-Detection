@@ -1,4 +1,4 @@
-# YOLO implementation
+# YOLO v1
 ## Description
 Object detection using YOLO v1 algorithm using PyTorch over Pascal VOC dataset.
 YOLO is an one-stage detector, instead of passing the feature maps to separate classifier and regressor heads obtained from the backbone of the network, it passes entire image at once and predicts the bounding box coordinates, confidences score and class probabilites.
