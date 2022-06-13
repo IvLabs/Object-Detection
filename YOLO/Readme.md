@@ -28,9 +28,9 @@ c is the confidence score
  ![](https://i.imgur.com/d8nEIFK.png)
 
 ## Dependencies
- PyTorch
- NumPy
- Torchvision
- Albumentations 1.1.0
- OpenCV
- opencv-python-headless 4.5.2.52
+*  PyTorch
+*  NumPy
+*  Torchvision
+*  Albumentations 1.1.0
+*  OpenCV
+*  opencv-python-headless 4.5.2.52
