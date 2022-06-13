@@ -1,8 +1,5 @@
-import os
 import time
 import glob
-import xml.etree.ElementTree as ET
-import csv
 import matplotlib.pyplot as plt
 import torch
 import torch.utils.data
@@ -15,9 +12,7 @@ import albumentations as A
 from albumentations.pytorch import ToTensorV2
 from random import randrange
 import torch.nn as nn
-import torch.nn.functional as F
 from sklearn import metrics
 from torchmetrics.detection.mean_ap import MeanAveragePrecision
-# import imutils
 import cv2
 import time
