@@ -26,7 +26,9 @@ c is the confidence score
  Loss vs accuracy 
  
  ![](https://i.imgur.com/d8nEIFK.png)
-
+ 
+![](https://i.imgur.com/XrhWZqV.jpg)
+![](https://i.imgur.com/iMhNIWO.jpg)
 ## Dependencies
 *  PyTorch
 *  NumPy
